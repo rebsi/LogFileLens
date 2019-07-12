@@ -1,0 +1,578 @@
+2018-12-06 15:37:14,033 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494232.pdf] into 2 files in 19089ms
+2018-12-06 15:37:14,033 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494232.pdf] into 1 files in 19089ms
+2018-12-06 15:37:14,033 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494232.pdf] into 0 files in 19089ms
+2018-12-06 13:11:24,390 INFO  - No barcode found on first page. [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\SGMP1LOG318120613100.pdf]
+2018-12-06 13:11:24,390 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\SGMP1LOG318120613100.pdf]@[]: 0-1
+2018-12-06 13:11:24,421 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\SGMP1LOG318120613100.pdf] into 0 files in 26019ms
+2018-12-06 13:11:24,421 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\SGMP1LOG318120613100.pdf]
+2018-12-06 13:27:49,771 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494191.pdf]
+2018-12-06 13:28:03,999 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494191.pdf]/ 0 by Threshold: WE WE18494191
+2018-12-06 13:28:15,060 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494191.pdf]@[WE WE18494191]: 0-1
+2018-12-06 13:28:15,091 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494191.pdf] into 1 files in 25119ms
+2018-12-06 13:28:15,091 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494191.pdf]
+2018-12-06 13:37:16,605 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494196_WE WE18494198.pdf]
+2018-12-06 13:37:37,402 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494196_WE WE18494198.pdf]/ 0 by Threshold: WE WE18494196;WE WE18494198
+2018-12-06 13:37:44,079 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494196_WE WE18494198.pdf]@[WE WE18494196;WE WE18494198]: 0-0
+2018-12-06 13:37:44,110 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494196_WE WE18494198.pdf] into 1 files in 27290ms
+2018-12-06 13:37:44,110 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494196_WE WE18494198.pdf]
+2018-12-06 13:41:13,945 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494202.pdf]
+2018-12-06 13:41:35,989 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494202.pdf]/ 0 by Threshold: WE WE18494202
+2018-12-06 13:41:42,869 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494202.pdf]@[WE WE18494202]: 0-0
+2018-12-06 13:41:42,901 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494202.pdf] into 1 files in 28756ms
+2018-12-06 13:41:42,901 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494202.pdf]
+2018-12-06 13:43:22,560 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088.pdf]
+2018-12-06 13:43:42,545 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088.pdf]/ 0 by Threshold: WE WE18494085;WE WE18494088
+2018-12-06 13:43:50,284 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088.pdf]@[WE WE18494085;WE WE18494088]: 0-0
+2018-12-06 13:43:50,299 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088.pdf] into 1 files in 27547ms
+2018-12-06 13:43:50,299 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088.pdf]
+2018-12-06 13:43:50,299 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088_000.pdf]
+2018-12-06 13:44:11,985 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088_000.pdf]/ 0 by Threshold: WE WE18494085;WE WE18494088
+2018-12-06 13:44:22,001 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088_000.pdf]@[WE WE18494085;WE WE18494088]: 0-1
+2018-12-06 13:44:22,032 DEBUG - Failed to save barcode file [WE WE18494085_WE WE18494088] to [\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494085_WE WE18494088_000.pdf]. Retry.
+System.IO.IOException: Die Datei "\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494085_WE WE18494088.pdf" ist bereits vorhanden.
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bei System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   bei System.IO.FileStream..ctor(String path, FileMode mode)
+   bei FilesystemOutputHandler.FilesystemOutputHandler.TrySave(Stream pdfFile, String fileName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 68.
+   bei FilesystemOutputHandler.FilesystemOutputHandler.SaveDocument(Stream pdfFile, IList`1 barcodes, String defaultName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 48.
+2018-12-06 13:44:22,047 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088_000.pdf] into 1 files in 31548ms
+2018-12-06 13:44:22,047 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494085_WE WE18494088_000.pdf]
+2018-12-06 13:44:22,047 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494158.pdf]
+2018-12-06 13:44:37,227 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494158.pdf]/ 0 by Threshold: WE WE18494158
+2018-12-06 13:44:43,998 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494158.pdf]@[WE WE18494158]: 0-0
+2018-12-06 13:44:44,029 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494158.pdf] into 1 files in 21778ms
+2018-12-06 13:44:44,029 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494158.pdf]
+2018-12-06 13:44:44,029 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494204.pdf]
+2018-12-06 13:44:59,178 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494204.pdf]/ 0 by None: WE WE18494204
+2018-12-06 13:45:03,266 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494204.pdf]@[WE WE18494204]: 0-0
+2018-12-06 13:45:03,312 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494204.pdf] into 1 files in 19089ms
+2018-12-06 13:45:03,312 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494204.pdf]
+2018-12-06 13:45:03,312 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494199.pdf]
+2018-12-06 13:45:17,837 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494199.pdf]/ 0 by Threshold: WE WE18494199
+2018-12-06 13:45:23,516 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494199.pdf]@[WE WE18494199]: 0-0
+2018-12-06 13:45:23,703 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494199.pdf] into 1 files in 20193ms
+2018-12-06 13:45:23,703 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494199.pdf]
+2018-12-06 14:13:47,562 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214.pdf]
+2018-12-06 14:14:09,091 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214.pdf]/ 0 by Threshold: WE WE18494214
+2018-12-06 14:14:16,954 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214.pdf]@[WE WE18494214]: 0-0
+2018-12-06 14:14:17,594 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214.pdf] into 1 files in 29808ms
+2018-12-06 14:14:17,594 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214.pdf]
+2018-12-06 14:14:17,594 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214_000.pdf]
+2018-12-06 14:14:37,485 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214_000.pdf]/ 0 by Threshold: WE WE18494214
+2018-12-06 14:14:44,771 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214_000.pdf]@[WE WE18494214]: 0-0
+2018-12-06 14:14:44,786 DEBUG - Failed to save barcode file [WE WE18494214] to [\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494214_000.pdf]. Retry.
+System.IO.IOException: Die Datei "\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494214.pdf" ist bereits vorhanden.
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bei System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   bei System.IO.FileStream..ctor(String path, FileMode mode)
+   bei FilesystemOutputHandler.FilesystemOutputHandler.TrySave(Stream pdfFile, String fileName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 68.
+   bei FilesystemOutputHandler.FilesystemOutputHandler.SaveDocument(Stream pdfFile, IList`1 barcodes, String defaultName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 48.
+2018-12-06 14:14:44,802 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214_000.pdf] into 1 files in 27006ms
+2018-12-06 14:14:44,802 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494214_000.pdf]
+2018-12-06 14:14:44,802 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215.pdf]
+2018-12-06 14:15:03,742 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215.pdf]/ 0 by Threshold: WE WE18494215
+2018-12-06 14:15:12,135 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215.pdf]@[WE WE18494215]: 0-0
+2018-12-06 14:15:12,307 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215.pdf] into 1 files in 27311ms
+2018-12-06 14:15:12,307 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215.pdf]
+2018-12-06 14:15:12,307 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215_000.pdf]
+2018-12-06 14:15:33,415 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215_000.pdf]/ 0 by Threshold: WE WE18494215
+2018-12-06 14:15:40,404 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215_000.pdf]@[WE WE18494215]: 0-0
+2018-12-06 14:15:40,420 DEBUG - Failed to save barcode file [WE WE18494215] to [\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494215_000.pdf]. Retry.
+System.IO.IOException: Die Datei "\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494215.pdf" ist bereits vorhanden.
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bei System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   bei System.IO.FileStream..ctor(String path, FileMode mode)
+   bei FilesystemOutputHandler.FilesystemOutputHandler.TrySave(Stream pdfFile, String fileName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 68.
+   bei FilesystemOutputHandler.FilesystemOutputHandler.SaveDocument(Stream pdfFile, IList`1 barcodes, String defaultName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 48.
+2018-12-06 14:15:40,420 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215_000.pdf] into 1 files in 27891ms
+2018-12-06 14:15:40,435 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494215_000.pdf]
+2018-12-06 14:15:40,435 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216.pdf]
+2018-12-06 14:15:58,205 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216.pdf]/ 0 by Threshold: WE WE18494216
+2018-12-06 14:16:06,458 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216.pdf]@[WE WE18494216]: 0-0
+2018-12-06 14:16:06,474 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216.pdf] into 1 files in 25842ms
+2018-12-06 14:16:06,474 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216.pdf]
+2018-12-06 14:16:06,474 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216_000.pdf]
+2018-12-06 14:16:26,849 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216_000.pdf]/ 0 by Threshold: WE WE18494216
+2018-12-06 14:16:32,590 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216_000.pdf]@[WE WE18494216]: 0-0
+2018-12-06 14:16:32,606 DEBUG - Failed to save barcode file [WE WE18494216] to [\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494216_000.pdf]. Retry.
+System.IO.IOException: Die Datei "\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494216.pdf" ist bereits vorhanden.
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bei System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   bei System.IO.FileStream..ctor(String path, FileMode mode)
+   bei FilesystemOutputHandler.FilesystemOutputHandler.TrySave(Stream pdfFile, String fileName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 68.
+   bei FilesystemOutputHandler.FilesystemOutputHandler.SaveDocument(Stream pdfFile, IList`1 barcodes, String defaultName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 48.
+2018-12-06 14:16:32,621 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216_000.pdf] into 1 files in 25945ms
+2018-12-06 14:16:32,621 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494216_000.pdf]
+2018-12-06 14:16:32,621 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217.pdf]
+2018-12-06 14:16:49,814 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217.pdf]/ 0 by Threshold: WE WE18494217
+2018-12-06 14:16:55,539 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217.pdf]@[WE WE18494217]: 0-0
+2018-12-06 14:16:55,570 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217.pdf] into 1 files in 22753ms
+2018-12-06 14:16:55,570 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217.pdf]
+2018-12-06 14:16:55,570 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217_000.pdf]
+2018-12-06 14:17:13,387 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217_000.pdf]/ 0 by Threshold: WE WE18494217
+2018-12-06 14:17:21,655 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217_000.pdf]@[WE WE18494217]: 0-0
+2018-12-06 14:17:22,092 DEBUG - Failed to save barcode file [WE WE18494217] to [\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494217_000.pdf]. Retry.
+System.IO.IOException: Die Datei "\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494217.pdf" ist bereits vorhanden.
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bei System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   bei System.IO.FileStream..ctor(String path, FileMode mode)
+   bei FilesystemOutputHandler.FilesystemOutputHandler.TrySave(Stream pdfFile, String fileName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 68.
+   bei FilesystemOutputHandler.FilesystemOutputHandler.SaveDocument(Stream pdfFile, IList`1 barcodes, String defaultName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 48.
+2018-12-06 14:17:22,139 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217_000.pdf] into 1 files in 26373ms
+2018-12-06 14:17:22,139 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494217_000.pdf]
+2018-12-06 15:00:43,076 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494249.pdf]
+2018-12-06 15:01:09,146 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494249.pdf]/ 0 by Threshold: WE WE18494249
+2018-12-06 15:01:18,460 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494249.pdf]@[WE WE18494249]: 0-0
+2018-12-06 15:01:18,522 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494249.pdf] into 1 files in 35206ms
+2018-12-06 15:01:18,522 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494249.pdf]
+2018-12-06 15:08:36,133 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494254.pdf]
+2018-12-06 15:09:05,120 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494254.pdf]/ 0 by Threshold: WE WE18494254
+2018-12-06 15:09:20,737 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494254.pdf]@[WE WE18494254]: 0-0
+2018-12-06 15:09:21,517 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494254.pdf] into 1 files in 45161ms
+2018-12-06 15:09:21,517 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494254.pdf]
+2018-12-06 15:09:21,517 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494245.pdf]
+2018-12-06 15:09:41,330 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494245.pdf]/ 0 by Threshold: WE WE18494245
+2018-12-06 15:09:52,578 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494245.pdf]@[WE WE18494245]: 0-0
+2018-12-06 15:09:53,514 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494245.pdf] into 1 files in 31761ms
+2018-12-06 15:09:53,514 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494245.pdf]
+2018-12-06 15:09:53,514 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494244.pdf]
+2018-12-06 15:10:24,389 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494244.pdf]/ 0 by Threshold: WE WE18494244
+2018-12-06 15:10:47,650 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494244.pdf]@[WE WE18494244]: 0-1
+2018-12-06 15:10:48,633 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494244.pdf] into 1 files in 54881ms
+2018-12-06 15:10:48,633 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494244.pdf]
+2018-12-06 15:10:48,633 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494231.pdf]
+2018-12-06 15:11:07,105 ERROR - Unhandled Exception in PipeHandler [barcodeSplitterPipe]
+System.OverflowException: Die arithmetische Operation hat einen ?erlauf verursacht.
+   bei CrossCutting.StreamString.ReadString() in C:\Code\BarcodePdfSplitter\CrossCutting\StreamString.cs:Zeile 21.
+   bei BarcodePdfSplitter.BarcodePdfSplitter.<>c__DisplayClass27_0.<StartPipeHandler>b__0() in C:\Code\BarcodePdfSplitter\BarcodePdfSplitter\BarcodePdfSplitter.cs:Zeile 186.
+2018-12-06 15:11:09,055 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494231.pdf]/ 0 by Threshold: WE WE18494231
+2018-12-06 15:11:20,303 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494231.pdf]@[WE WE18494231]: 0-0
+2018-12-06 15:11:20,522 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494231.pdf] into 1 files in 31682ms
+2018-12-06 15:11:20,522 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494231.pdf]
+2018-12-06 15:11:20,522 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494226.pdf]
+2018-12-06 15:11:43,783 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494226.pdf]/ 0 by Threshold: WE WE18494226
+2018-12-06 15:12:07,450 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494226.pdf]@[WE WE18494226]: 0-1
+2018-12-06 15:12:08,698 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494226.pdf] into 1 files in 47971ms
+2018-12-06 15:12:08,698 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494226.pdf]
+2018-12-06 15:12:08,698 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494223.pdf]
+2018-12-06 15:12:25,485 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494223.pdf]/ 0 by Threshold: WE WE18494223
+2018-12-06 15:12:32,911 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494223.pdf]@[WE WE18494223]: 0-0
+2018-12-06 15:12:33,301 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494223.pdf] into 1 files in 24373ms
+2018-12-06 15:12:33,301 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494223.pdf]
+2018-12-06 15:12:33,301 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494220.pdf]
+2018-12-06 15:12:53,536 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494220.pdf]/ 0 by Threshold: WE WE18494220
+2018-12-06 15:13:05,845 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494220.pdf]@[WE WE18494220]: 0-0
+2018-12-06 15:13:06,438 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494220.pdf] into 1 files in 32917ms
+2018-12-06 15:13:06,438 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494220.pdf]
+2018-12-06 15:13:06,438 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494208.pdf]
+2018-12-06 15:13:27,874 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494208.pdf]/ 0 by Threshold: WE WE18494208
+2018-12-06 15:13:37,156 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494208.pdf]@[WE WE18494208]: 0-0
+2018-12-06 15:13:37,172 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494208.pdf] into 1 files in 30523ms
+2018-12-06 15:13:37,172 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494208.pdf]
+2018-12-06 15:36:24,842 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494234.pdf]
+2018-12-06 15:36:41,988 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494234.pdf]/ 0 by Threshold: WE WE18494234
+2018-12-06 15:36:54,656 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494234.pdf]@[WE WE18494234]: 0-1
+2018-12-06 15:36:54,750 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494234.pdf] into 1 files in 29707ms
+2018-12-06 15:36:54,750 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494234.pdf]
+2018-12-06 15:36:54,750 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494232.pdf]
+2018-12-06 15:37:08,853 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494232.pdf]/ 0 by Threshold: WE WE18494232
+2018-12-06 15:37:13,908 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494232.pdf]@[WE WE18494232]: 0-0
+2018-12-06 15:37:14,033 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494232.pdf] into 1 files in 19089ms
+2018-12-06 15:37:14,033 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494232.pdf]
+2018-12-06 15:37:14,033 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494224.pdf]
+2018-12-06 15:37:28,214 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494224.pdf]/ 0 by Threshold: WE WE18494224
+2018-12-06 15:37:33,300 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494224.pdf]@[WE WE18494224]: 0-0
+2018-12-06 15:37:33,393 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494224.pdf] into 1 files in 19167ms
+2018-12-06 15:37:33,393 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494224.pdf]
+2018-12-06 15:37:33,393 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494221.pdf]
+2018-12-06 15:37:47,981 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494221.pdf]/ 0 by Threshold: WE WE18494221
+2018-12-06 15:37:52,786 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494221.pdf]@[WE WE18494221]: 0-0
+2018-12-06 15:37:52,848 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494221.pdf] into 1 files in 19252ms
+2018-12-06 15:37:52,848 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494221.pdf]
+2018-12-06 15:37:52,848 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247.pdf]
+2018-12-06 15:38:06,717 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247.pdf]/ 0 by Threshold: WE WE18494247
+2018-12-06 15:38:12,771 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247.pdf]@[WE WE18494247]: 0-0
+2018-12-06 15:38:12,817 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247.pdf] into 1 files in 19765ms
+2018-12-06 15:38:12,817 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247.pdf]
+2018-12-06 15:38:12,817 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_000.pdf]
+2018-12-06 15:38:30,790 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_000.pdf]/ 0 by Threshold: WE WE18494247
+2018-12-06 15:38:37,514 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_000.pdf]@[WE WE18494247]: 0-0
+2018-12-06 15:38:37,732 DEBUG - Failed to save barcode file [WE WE18494247] to [\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494247_000.pdf]. Retry.
+System.IO.IOException: Die Datei "\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494247.pdf" ist bereits vorhanden.
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bei System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   bei System.IO.FileStream..ctor(String path, FileMode mode)
+   bei FilesystemOutputHandler.FilesystemOutputHandler.TrySave(Stream pdfFile, String fileName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 68.
+   bei FilesystemOutputHandler.FilesystemOutputHandler.SaveDocument(Stream pdfFile, IList`1 barcodes, String defaultName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 48.
+2018-12-06 15:38:37,842 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_000.pdf] into 1 files in 24830ms
+2018-12-06 15:38:37,842 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_000.pdf]
+2018-12-06 15:38:37,842 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_001.pdf]
+2018-12-06 15:38:58,560 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_001.pdf]/ 0 by Threshold: WE WE18494247
+2018-12-06 15:39:10,854 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_001.pdf]@[WE WE18494247]: 0-0
+2018-12-06 15:39:11,244 DEBUG - Failed to save barcode file [WE WE18494247] to [\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494247_000.pdf]. Retry.
+System.IO.IOException: Die Datei "\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494247.pdf" ist bereits vorhanden.
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bei System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   bei System.IO.FileStream..ctor(String path, FileMode mode)
+   bei FilesystemOutputHandler.FilesystemOutputHandler.TrySave(Stream pdfFile, String fileName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 68.
+   bei FilesystemOutputHandler.FilesystemOutputHandler.SaveDocument(Stream pdfFile, IList`1 barcodes, String defaultName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 48.
+2018-12-06 15:39:11,244 DEBUG - Failed to save barcode file [WE WE18494247] to [\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494247_001.pdf]. Retry.
+System.IO.IOException: Die Datei "\\stw4\Werk4\Mitarbeiter\_Scan\WARENEINGANG\WE WE18494247_000.pdf" ist bereits vorhanden.
+   bei System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   bei System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   bei System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   bei System.IO.FileStream..ctor(String path, FileMode mode)
+   bei FilesystemOutputHandler.FilesystemOutputHandler.TrySave(Stream pdfFile, String fileName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 68.
+   bei FilesystemOutputHandler.FilesystemOutputHandler.SaveDocument(Stream pdfFile, IList`1 barcodes, String defaultName) in C:\Code\BarcodePdfSplitter\OutputHandler\FilesystemOutputHandler\FilesystemOutputHandler.cs:Zeile 48.
+2018-12-06 15:39:11,259 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_001.pdf] into 1 files in 33210ms
+2018-12-06 15:39:11,259 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494247_001.pdf]
+2018-12-06 15:39:11,259 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494242.pdf]
+2018-12-06 15:39:38,873 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494242.pdf]/ 0 by Threshold: WE WE18494242
+2018-12-06 15:39:47,313 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494242.pdf]@[WE WE18494242]: 0-0
+2018-12-06 15:39:48,015 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494242.pdf] into 1 files in 36551ms
+2018-12-06 15:39:48,015 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494242.pdf]
+2018-12-06 15:39:48,015 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494238.pdf]
+2018-12-06 15:40:07,345 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494238.pdf]/ 0 by Threshold: WE WE18494238
+2018-12-06 15:40:14,678 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494238.pdf]@[WE WE18494238]: 0-0
+2018-12-06 15:40:14,787 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494238.pdf] into 1 files in 26556ms
+2018-12-06 15:40:14,787 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494238.pdf]
+2018-12-06 15:40:14,787 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494228.pdf]
+2018-12-06 15:40:32,962 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494228.pdf]/ 0 by Threshold: WE WE18494228
+2018-12-06 15:40:43,259 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494228.pdf]@[WE WE18494228]: 0-0
+2018-12-06 15:40:43,446 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494228.pdf] into 1 files in 28457ms
+2018-12-06 15:40:43,446 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494228.pdf]
+2018-12-06 15:40:43,446 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494193.pdf]
+2018-12-06 15:41:03,384 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494193.pdf]/ 0 by Threshold: WE WE18494193
+2018-12-06 15:41:09,578 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494193.pdf]@[WE WE18494193]: 0-0
+2018-12-06 15:41:09,625 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494193.pdf] into 1 files in 25974ms
+2018-12-06 15:41:09,625 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494193.pdf]
+2018-12-06 15:41:09,625 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494189.pdf]
+2018-12-06 15:41:24,555 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494189.pdf]/ 0 by Threshold: WE WE18494189
+2018-12-06 15:41:32,153 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494189.pdf]@[WE WE18494189]: 0-0
+2018-12-06 15:41:32,200 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494189.pdf] into 1 files in 22380ms
+2018-12-06 15:41:32,200 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494189.pdf]
+2018-12-06 15:41:32,215 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494188.pdf]
+2018-12-06 15:41:48,097 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494188.pdf]/ 0 by Threshold: WE WE18494188
+2018-12-06 15:41:58,222 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494188.pdf]@[WE WE18494188]: 0-1
+2018-12-06 15:41:58,316 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494188.pdf] into 1 files in 25907ms
+2018-12-06 15:41:58,316 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494188.pdf]
+2018-12-06 15:41:58,316 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494187.pdf]
+2018-12-06 15:42:17,583 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494187.pdf]/ 0 by Threshold: WE WE18494187
+2018-12-06 15:42:48,707 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494187.pdf]@[WE WE18494187]: 0-2
+2018-12-06 15:42:48,754 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494187.pdf] into 1 files in 50240ms
+2018-12-06 15:42:48,754 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494187.pdf]
+2018-12-06 15:42:48,754 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494179.pdf]
+2018-12-06 15:43:02,936 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494179.pdf]/ 0 by Threshold: WE WE18494179
+2018-12-06 15:43:14,402 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494179.pdf]@[WE WE18494179]: 0-1
+2018-12-06 15:43:14,496 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494179.pdf] into 1 files in 25541ms
+2018-12-06 15:43:14,496 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494179.pdf]
+2018-12-06 15:43:14,496 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494181.pdf]
+2018-12-06 15:43:30,705 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494181.pdf]/ 0 by Threshold: WE WE18494181
+2018-12-06 15:43:37,523 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494181.pdf]@[WE WE18494181]: 0-1
+2018-12-06 15:43:37,617 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494181.pdf] into 1 files in 22924ms
+2018-12-06 15:43:37,617 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494181.pdf]
+2018-12-06 15:43:37,617 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494176.pdf]
+2018-12-06 15:44:05,496 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494176.pdf]/ 0 by Threshold: WE WE18494176
+2018-12-06 15:44:10,753 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494176.pdf]@[WE WE18494176]: 0-1
+2018-12-06 15:44:10,832 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494176.pdf] into 1 files in 33011ms
+2018-12-06 15:44:10,832 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494176.pdf]
+2018-12-06 15:44:10,832 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494178.pdf]
+2018-12-06 15:44:27,665 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494178.pdf]/ 0 by Threshold: WE WE18494178
+2018-12-06 15:44:33,391 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494178.pdf]@[WE WE18494178]: 0-1
+2018-12-06 15:44:33,469 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494178.pdf] into 1 files in 22440ms
+2018-12-06 15:44:33,469 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494178.pdf]
+2018-12-06 15:44:33,469 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494174.pdf]
+2018-12-06 15:44:56,402 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494174.pdf]/ 0 by Threshold: WE WE18494174
+2018-12-06 15:45:02,378 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494174.pdf]@[WE WE18494174]: 0-1
+2018-12-06 15:45:02,424 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494174.pdf] into 1 files in 28755ms
+2018-12-06 15:45:02,424 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494174.pdf]
+2018-12-06 15:45:02,424 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494175.pdf]
+2018-12-06 15:45:16,699 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494175.pdf]/ 0 by Threshold: WE WE18494175
+2018-12-06 15:45:23,564 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494175.pdf]@[WE WE18494175]: 0-1
+2018-12-06 15:45:23,657 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494175.pdf] into 1 files in 21030ms
+2018-12-06 15:45:23,657 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494175.pdf]
+2018-12-06 15:45:23,657 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494170.pdf]
+2018-12-06 15:45:39,337 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494170.pdf]/ 0 by Threshold: WE WE18494170
+2018-12-06 15:45:46,981 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494170.pdf]@[WE WE18494170]: 0-1
+2018-12-06 15:45:47,137 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494170.pdf] into 1 files in 23275ms
+2018-12-06 15:45:47,137 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494170.pdf]
+2018-12-06 15:45:47,137 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494173.pdf]
+2018-12-06 15:46:06,670 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494173.pdf]/ 0 by Threshold: WE WE18494173
+2018-12-06 15:46:11,771 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494173.pdf]@[WE WE18494173]: 0-1
+2018-12-06 15:46:12,442 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494173.pdf] into 1 files in 25087ms
+2018-12-06 15:46:12,442 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494173.pdf]
+2018-12-06 15:46:12,442 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494165.pdf]
+2018-12-06 15:46:28,168 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494165.pdf]/ 0 by Threshold: WE WE18494165
+2018-12-06 15:46:33,644 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494165.pdf]@[WE WE18494165]: 0-0
+2018-12-06 15:46:33,691 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494165.pdf] into 1 files in 21023ms
+2018-12-06 15:46:33,691 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494165.pdf]
+2018-12-06 15:46:33,691 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494160.pdf]
+2018-12-06 15:46:48,028 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494160.pdf]/ 0 by Threshold: WE WE18494160
+2018-12-06 15:46:55,486 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494160.pdf]@[WE WE18494160]: 0-1
+2018-12-06 15:46:55,532 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494160.pdf] into 1 files in 21639ms
+2018-12-06 15:46:55,532 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494160.pdf]
+2018-12-06 15:46:55,532 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494142.pdf]
+2018-12-06 15:47:10,509 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494142.pdf]/ 0 by None: WE WE18494142
+2018-12-06 15:47:33,973 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494142.pdf]@[WE WE18494142]: 0-2
+2018-12-06 15:47:34,083 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494142.pdf] into 1 files in 38354ms
+2018-12-06 15:47:34,083 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494142.pdf]
+2018-12-06 15:47:34,083 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494159.pdf]
+2018-12-06 15:47:59,122 DEBUG - May found start page for [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494159.pdf] on page 0. Levenshtein distance: 4
+2018-12-06 15:47:59,154 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494159.pdf]/ 0 by FileName: WE WE18494159
+2018-12-06 15:48:00,230 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494159.pdf]@[WE WE18494159]: 0-0
+2018-12-06 15:48:00,277 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494159.pdf] into 1 files in 26003ms
+2018-12-06 15:48:00,277 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494159.pdf]
+2018-12-06 15:48:00,277 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494125.pdf]
+2018-12-06 15:48:22,493 DEBUG - May found start page for [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494125.pdf] on page 0. Levenshtein distance: 5
+2018-12-06 15:48:22,508 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494125.pdf]/ 0 by FileName: WE WE18494125
+2018-12-06 15:48:42,759 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494125.pdf]@[WE WE18494125]: 0-2
+2018-12-06 15:48:42,915 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494125.pdf] into 1 files in 42433ms
+2018-12-06 15:48:42,915 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494125.pdf]
+2018-12-06 16:49:45,335 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494257_WE WE18494250.pdf]
+2018-12-06 16:50:04,493 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494257_WE WE18494250.pdf]/ 0 by Threshold: WE WE18494250
+2018-12-06 16:50:05,835 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494257_WE WE18494250.pdf]/ 0 by None: WE WE18494257
+2018-12-06 16:50:40,501 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494257_WE WE18494250.pdf]@[WE WE18494250;WE WE18494257]: 0-2
+2018-12-06 16:50:40,532 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494257_WE WE18494250.pdf] into 1 files in 55003ms
+2018-12-06 16:50:40,532 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494257_WE WE18494250.pdf]
+2018-12-06 18:05:57,253 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494258.pdf]
+2018-12-06 18:06:21,076 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494258.pdf]/ 0 by Threshold: WE WE18494258
+2018-12-06 18:06:28,845 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494258.pdf]@[WE WE18494258]: 0-1
+2018-12-06 18:06:28,892 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494258.pdf] into 1 files in 31447ms
+2018-12-06 18:06:28,892 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494258.pdf]
+2018-12-06 18:06:28,892 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494260.pdf]
+2018-12-06 18:06:43,651 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494260.pdf]/ 0 by Threshold: WE WE18494260
+2018-12-06 18:06:50,734 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494260.pdf]@[WE WE18494260]: 0-0
+2018-12-06 18:06:50,781 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494260.pdf] into 1 files in 21697ms
+2018-12-06 18:06:50,781 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494260.pdf]
+2018-12-06 18:06:50,781 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494259.pdf]
+2018-12-06 18:07:05,461 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494259.pdf]/ 0 by Threshold: WE WE18494259
+2018-12-06 18:07:11,577 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494259.pdf]@[WE WE18494259]: 0-0
+2018-12-06 18:07:11,624 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494259.pdf] into 1 files in 20640ms
+2018-12-06 18:07:11,624 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494259.pdf]
+2018-12-06 19:17:08,257 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494262.pdf]
+2018-12-06 19:17:26,823 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494262.pdf]/ 0 by Threshold: WE WE18494262
+2018-12-06 19:17:32,969 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494262.pdf]@[WE WE18494262]: 0-0
+2018-12-06 19:17:33,016 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494262.pdf] into 1 files in 24561ms
+2018-12-06 19:17:33,016 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494262.pdf]
+2018-12-06 19:46:19,106 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494261.pdf]
+2018-12-06 19:46:42,274 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494261.pdf]/ 0 by Threshold: WE WE18494261
+2018-12-06 19:47:08,390 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494261.pdf]@[WE WE18494261]: 0-2
+2018-12-06 19:47:08,437 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494261.pdf] into 1 files in 49085ms
+2018-12-06 19:47:08,437 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494261.pdf]
+2018-12-06 19:47:08,437 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494263.pdf]
+2018-12-06 19:47:22,665 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494263.pdf]/ 0 by Threshold: WE WE18494263
+2018-12-06 19:47:27,626 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494263.pdf]@[WE WE18494263]: 0-0
+2018-12-06 19:47:27,657 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494263.pdf] into 1 files in 19030ms
+2018-12-06 19:47:27,657 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494263.pdf]
+2018-12-06 20:28:10,603 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494264.pdf]
+2018-12-06 20:28:30,650 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494264.pdf]/ 0 by None: WE WE18494264
+2018-12-06 20:28:36,126 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494264.pdf]@[WE WE18494264]: 0-0
+2018-12-06 20:28:36,204 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494264.pdf] into 1 files in 25396ms
+2018-12-06 20:28:36,204 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494264.pdf]
+2018-12-07 05:52:37,859 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494146.pdf]
+2018-12-07 05:53:01,448 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494146.pdf]/ 0 by Threshold: WE WE18494146
+2018-12-07 05:53:08,484 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494146.pdf]@[WE WE18494146]: 0-0
+2018-12-07 05:53:08,968 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494146.pdf] into 1 files in 30903ms
+2018-12-07 05:53:08,968 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494146.pdf]
+2018-12-07 05:53:08,968 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494253.pdf]
+2018-12-07 05:53:27,081 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494253.pdf]/ 0 by Threshold: WE WE18494253
+2018-12-07 05:53:33,165 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494253.pdf]@[WE WE18494253]: 0-0
+2018-12-07 05:53:33,196 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494253.pdf] into 1 files in 24015ms
+2018-12-07 05:53:33,196 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494253.pdf]
+2018-12-07 05:53:33,196 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494251.pdf]
+2018-12-07 05:53:49,718 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494251.pdf]/ 0 by Threshold: WE WE18494251
+2018-12-07 05:54:05,335 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494251.pdf]/ 1 by None: WE WE18494241
+2018-12-07 05:54:09,344 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494251.pdf]@[WE WE18494241]: 1-1
+2018-12-07 05:54:09,391 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494251.pdf]@[WE WE18494251]: 0-0
+2018-12-07 05:54:09,422 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494251.pdf] into 2 files in 36022ms
+2018-12-07 05:54:09,422 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494251.pdf]
+2018-12-07 05:54:09,422 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494227.pdf]
+2018-12-07 05:54:32,855 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494227.pdf]/ 0 by Threshold: WE WE18494227
+2018-12-07 05:54:38,518 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494227.pdf]@[WE WE18494227]: 0-1
+2018-12-07 05:54:38,581 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494227.pdf] into 1 files in 28962ms
+2018-12-07 05:54:38,581 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494227.pdf]
+2018-12-07 05:54:38,581 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]
+2018-12-07 05:54:52,934 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]/ 0 by Threshold: WE WE18494218
+2018-12-07 05:54:55,804 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]/ 3 by Threshold: WE WE18494209
+2018-12-07 05:55:17,942 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]/ 4 by None: WE WE18494207
+2018-12-07 05:55:35,415 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]/ 5 by Threshold: WE WE18494206
+2018-12-07 05:55:39,440 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]/ 2 by Threshold: WE WE18494211
+2018-12-07 05:55:44,480 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]@[WE WE18494206]: 5-5
+2018-12-07 05:55:44,526 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]@[WE WE18494207]: 4-4
+2018-12-07 05:55:44,558 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]@[WE WE18494209]: 3-3
+2018-12-07 05:55:45,525 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]@[WE WE18494211]: 2-2
+2018-12-07 05:55:45,556 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]@[WE WE18494218]: 0-1
+2018-12-07 05:55:45,587 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf] into 5 files in 66803ms
+2018-12-07 05:55:45,587 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494218.pdf]
+2018-12-07 05:55:45,587 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf]
+2018-12-07 05:56:01,578 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf]/ 0 by Threshold: WE WE18494200
+2018-12-07 05:56:02,764 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf]/ 1 by Threshold: WE WE18494168
+2018-12-07 05:56:24,216 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf]/ 2 by Threshold: WE WE18494166
+2018-12-07 05:56:30,378 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf]@[WE WE18494166]: 2-2
+2018-12-07 05:56:30,409 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf]@[WE WE18494168]: 1-1
+2018-12-07 05:56:30,425 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf]@[WE WE18494200]: 0-0
+2018-12-07 05:56:30,456 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf] into 3 files in 44669ms
+2018-12-07 05:56:30,456 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494200.pdf]
+2018-12-07 05:56:30,456 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]
+2018-12-07 05:56:46,057 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]/ 0 by Threshold: WE WE18494164
+2018-12-07 05:56:53,624 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]/ 2 by Threshold: WE WE18494154
+2018-12-07 05:57:12,751 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]/ 1 by Threshold: WE WE18494157
+2018-12-07 05:57:15,590 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]/ 3 by Threshold: WE WE18494151
+2018-12-07 05:57:22,018 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]@[WE WE18494151]: 3-3
+2018-12-07 05:57:22,018 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]@[WE WE18494154]: 2-2
+2018-12-07 05:57:22,065 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]@[WE WE18494157]: 1-1
+2018-12-07 05:57:22,065 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]@[WE WE18494164]: 0-0
+2018-12-07 05:57:22,111 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf] into 4 files in 51453ms
+2018-12-07 05:57:22,111 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494164.pdf]
+2018-12-07 05:57:22,111 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494149.pdf]
+2018-12-07 05:57:36,745 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494149.pdf]/ 0 by Threshold: WE WE18494149
+2018-12-07 05:57:46,699 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494149.pdf]@[WE WE18494149]: 0-0
+2018-12-07 05:57:47,369 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494149.pdf] into 1 files in 25056ms
+2018-12-07 05:57:47,369 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494149.pdf]
+2018-12-07 05:57:47,369 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494147.pdf]
+2018-12-07 05:58:02,503 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494147.pdf]/ 0 by Threshold: WE WE18494147
+2018-12-07 05:58:08,010 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494147.pdf]@[WE WE18494147]: 0-0
+2018-12-07 05:58:08,041 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494147.pdf] into 1 files in 20463ms
+2018-12-07 05:58:08,041 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494147.pdf]
+2018-12-07 05:58:08,041 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494194.pdf]
+2018-12-07 05:58:26,138 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494194.pdf]/ 0 by Threshold: WE WE18494194
+2018-12-07 05:58:32,706 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494194.pdf]@[WE WE18494194]: 0-0
+2018-12-07 05:58:32,737 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494194.pdf] into 1 files in 24492ms
+2018-12-07 05:58:32,737 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494194.pdf]
+2018-12-07 05:58:32,737 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494192.pdf]
+2018-12-07 05:58:47,512 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494192.pdf]/ 0 by Threshold: WE WE18494192
+2018-12-07 05:58:58,214 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494192.pdf]@[WE WE18494192]: 0-0
+2018-12-07 05:58:58,245 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494192.pdf] into 1 files in 25307ms
+2018-12-07 05:58:58,245 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494192.pdf]
+2018-12-07 05:58:58,245 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494190.pdf]
+2018-12-07 05:59:13,129 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494190.pdf]/ 0 by Threshold: WE WE18494190
+2018-12-07 05:59:20,212 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494190.pdf]@[WE WE18494190]: 0-0
+2018-12-07 05:59:20,664 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494190.pdf] into 1 files in 22204ms
+2018-12-07 05:59:20,664 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494190.pdf]
+2018-12-07 05:59:20,664 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494073.pdf]
+2018-12-07 05:59:37,217 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494073.pdf]/ 0 by Threshold: WE WE18494073
+2018-12-07 05:59:42,272 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494073.pdf]@[WE WE18494073]: 0-0
+2018-12-07 05:59:42,381 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494073.pdf] into 1 files in 21505ms
+2018-12-07 05:59:42,381 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494073.pdf]
+2018-12-07 05:59:42,381 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494248.pdf]
+2018-12-07 06:00:00,759 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494248.pdf]/ 0 by Threshold: WE WE18494248
+2018-12-07 06:00:07,171 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494248.pdf]@[WE WE18494248]: 0-0
+2018-12-07 06:00:07,280 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494248.pdf] into 1 files in 24706ms
+2018-12-07 06:00:07,280 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494248.pdf]
+2018-12-07 06:00:07,280 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494243.pdf]
+2018-12-07 06:00:24,987 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494243.pdf]/ 0 by Threshold: WE WE18494243
+2018-12-07 06:00:33,864 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494243.pdf]@[WE WE18494243]: 0-0
+2018-12-07 06:00:33,896 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494243.pdf] into 1 files in 26413ms
+2018-12-07 06:00:33,896 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494243.pdf]
+2018-12-07 06:00:33,896 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494240.pdf]
+2018-12-07 06:00:55,784 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494240.pdf]/ 0 by Threshold: WE WE18494240
+2018-12-07 06:01:04,099 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494240.pdf]@[WE WE18494240]: 0-0
+2018-12-07 06:01:04,131 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494240.pdf] into 1 files in 30030ms
+2018-12-07 06:01:04,131 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494240.pdf]
+2018-12-07 06:01:04,131 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494239.pdf]
+2018-12-07 06:01:18,062 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494239.pdf]/ 0 by Threshold: WE WE18494239
+2018-12-07 06:01:29,030 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494239.pdf]@[WE WE18494239]: 0-0
+2018-12-07 06:01:29,061 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494239.pdf] into 1 files in 24727ms
+2018-12-07 06:01:29,061 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494239.pdf]
+2018-12-07 06:01:29,061 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494222.pdf]
+2018-12-07 06:01:43,258 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494222.pdf]/ 0 by Threshold: WE WE18494222
+2018-12-07 06:01:48,328 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494222.pdf]@[WE WE18494222]: 0-0
+2018-12-07 06:01:48,422 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494222.pdf] into 1 files in 19162ms
+2018-12-07 06:01:48,422 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494222.pdf]
+2018-12-07 06:01:48,422 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494235.pdf]
+2018-12-07 06:02:07,097 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494235.pdf]/ 0 by Threshold: WE WE18494235
+2018-12-07 06:02:13,275 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494235.pdf]@[WE WE18494235]: 0-0
+2018-12-07 06:02:13,306 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494235.pdf] into 1 files in 24687ms
+2018-12-07 06:02:13,306 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494235.pdf]
+2018-12-07 06:02:13,306 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494230.pdf]
+2018-12-07 06:02:31,918 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494230.pdf]/ 0 by Threshold: WE WE18494230
+2018-12-07 06:02:38,236 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494230.pdf]@[WE WE18494230]: 0-0
+2018-12-07 06:02:38,268 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494230.pdf] into 1 files in 24768ms
+2018-12-07 06:02:38,268 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494230.pdf]
+2018-12-07 06:02:38,268 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494213.pdf]
+2018-12-07 06:02:55,741 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494213.pdf]/ 0 by Threshold: WE WE18494213
+2018-12-07 06:03:04,649 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494213.pdf]@[WE WE18494213]: 0-0
+2018-12-07 06:03:04,696 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494213.pdf] into 1 files in 26229ms
+2018-12-07 06:03:04,696 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494213.pdf]
+2018-12-07 06:03:04,696 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494219.pdf]
+2018-12-07 06:03:19,564 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494219.pdf]/ 0 by Threshold: WE WE18494219
+2018-12-07 06:03:31,717 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494219.pdf]@[WE WE18494219]: 0-0
+2018-12-07 06:03:32,060 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494219.pdf] into 1 files in 27163ms
+2018-12-07 06:03:32,060 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494219.pdf]
+2018-12-07 06:03:32,060 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494212.pdf]
+2018-12-07 06:03:46,195 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494212.pdf]/ 0 by Threshold: WE WE18494212
+2018-12-07 06:03:53,481 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494212.pdf]@[WE WE18494212]: 0-0
+2018-12-07 06:03:53,512 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494212.pdf] into 1 files in 21249ms
+2018-12-07 06:03:53,512 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494212.pdf]
+2018-12-07 06:03:53,512 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494210.pdf]
+2018-12-07 06:04:11,375 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494210.pdf]/ 0 by Threshold: WE WE18494210
+2018-12-07 06:04:16,820 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494210.pdf]@[WE WE18494210]: 0-0
+2018-12-07 06:04:16,867 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494210.pdf] into 1 files in 23151ms
+2018-12-07 06:04:16,867 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494210.pdf]
+2018-12-07 06:04:16,867 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494205.pdf]
+2018-12-07 06:04:35,806 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494205.pdf]/ 0 by Threshold: WE WE18494205
+2018-12-07 06:04:42,577 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494205.pdf]@[WE WE18494205]: 0-0
+2018-12-07 06:04:42,624 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494205.pdf] into 1 files in 25558ms
+2018-12-07 06:04:42,624 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494205.pdf]
+2018-12-07 06:04:42,624 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494203.pdf]
+2018-12-07 06:04:59,801 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494203.pdf]/ 0 by Threshold: WE WE18494203
+2018-12-07 06:05:09,629 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494203.pdf]@[WE WE18494203]: 0-0
+2018-12-07 06:05:09,661 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494203.pdf] into 1 files in 26832ms
+2018-12-07 06:05:09,661 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494203.pdf]
+2018-12-07 06:05:09,661 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494201.pdf]
+2018-12-07 06:05:24,060 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494201.pdf]/ 0 by Threshold: WE WE18494201
+2018-12-07 06:05:29,849 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494201.pdf]@[WE WE18494201]: 0-0
+2018-12-07 06:05:29,880 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494201.pdf] into 1 files in 20020ms
+2018-12-07 06:05:29,880 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494201.pdf]
+2018-12-07 06:05:29,880 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494184.pdf]
+2018-12-07 06:05:49,428 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494184.pdf]/ 0 by Threshold: WE WE18494184
+2018-12-07 06:05:56,370 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494184.pdf]@[WE WE18494184]: 0-0
+2018-12-07 06:05:56,402 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494184.pdf] into 1 files in 26317ms
+2018-12-07 06:05:56,402 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494184.pdf]
+2018-12-07 06:05:56,402 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494167.pdf]
+2018-12-07 06:06:12,174 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494167.pdf]/ 0 by Threshold: WE WE18494167
+2018-12-07 06:06:25,295 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494167.pdf]@[WE WE18494167]: 0-1
+2018-12-07 06:06:25,841 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494167.pdf] into 1 files in 29235ms
+2018-12-07 06:06:25,841 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494167.pdf]
+2018-12-07 06:06:25,841 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494153.pdf]
+2018-12-07 06:06:39,991 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494153.pdf]/ 0 by Threshold: WE WE18494153
+2018-12-07 06:06:49,430 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494153.pdf]@[WE WE18494153]: 0-1
+2018-12-07 06:06:49,477 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494153.pdf] into 1 files in 23436ms
+2018-12-07 06:06:49,477 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494153.pdf]
+2018-12-07 06:06:49,477 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494195_WE WE18494197.pdf]
+2018-12-07 06:07:04,734 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494195_WE WE18494197.pdf]/ 0 by Threshold: WE WE18494197;WE WE18494195
+2018-12-07 06:07:11,022 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494195_WE WE18494197.pdf]@[WE WE18494195;WE WE18494197]: 0-1
+2018-12-07 06:07:11,084 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494195_WE WE18494197.pdf] into 1 files in 21416ms
+2018-12-07 06:07:11,084 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494195_WE WE18494197.pdf]
+2018-12-07 06:07:11,084 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494063.pdf]
+2018-12-07 06:07:25,265 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494063.pdf]/ 0 by Threshold: WE WE18494063
+2018-12-07 06:07:36,139 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494063.pdf]@[WE WE18494063]: 0-0
+2018-12-07 06:07:36,155 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494063.pdf] into 1 files in 24868ms
+2018-12-07 06:07:36,155 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494063.pdf]
+2018-12-07 06:07:36,155 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494060.pdf]
+2018-12-07 06:07:50,087 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494060.pdf]/ 0 by Threshold: WE WE18494060
+2018-12-07 06:07:55,454 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494060.pdf]@[WE WE18494060]: 0-0
+2018-12-07 06:07:55,485 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494060.pdf] into 1 files in 19132ms
+2018-12-07 06:07:55,485 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494060.pdf]
+2018-12-07 06:07:55,485 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494057.pdf]
+2018-12-07 06:08:18,777 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494057.pdf]/ 0 by Threshold: WE WE18494057
+2018-12-07 06:08:24,206 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494057.pdf]@[WE WE18494057]: 0-0
+2018-12-07 06:08:24,253 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494057.pdf] into 1 files in 28553ms
+2018-12-07 06:08:24,253 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494057.pdf]
+2018-12-07 06:08:24,253 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494185.pdf]
+2018-12-07 06:08:42,350 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494185.pdf]/ 0 by Threshold: WE WE18494185
+2018-12-07 06:08:49,246 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494185.pdf]@[WE WE18494185]: 0-0
+2018-12-07 06:08:49,277 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494185.pdf] into 1 files in 24830ms
+2018-12-07 06:08:49,277 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494185.pdf]
+2018-12-07 06:08:49,277 DEBUG - Starting handle file [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494182.pdf]
+2018-12-07 06:09:11,665 DEBUG - Found barcodes in [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494182.pdf]/ 0 by Threshold: WE WE18494182
+2018-12-07 06:09:16,954 DEBUG - Split [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494182.pdf]@[WE WE18494182]: 0-0
+2018-12-07 06:09:17,047 INFO  - Splitted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494182.pdf] into 1 files in 27569ms
+2018-12-07 06:09:17,047 DEBUG - Deleted [C:\ProgramData\DATAPOOL\DATAPOOL Barcode Service\Data\Export\WE WE18494182.pdf]

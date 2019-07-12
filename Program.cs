@@ -4,7 +4,7 @@ using System.Configuration;
 using System.IO;
 using System.Text.RegularExpressions;
 
-namespace LogFileLense
+namespace LogFileLens
 {
     internal class Program
     {
@@ -15,24 +15,24 @@ namespace LogFileLense
                 Console.Error.WriteLine("Required argument missing: path");
             }
 
-            LogFileLense logFileLense = new LogFileLense();
-            logFileLense.HandleFile(args[0]);
+            LogFileLens logFileLens = new LogFileLens();
+            logFileLens.HandleFile(args[0]);
         }
     }
 
-    public class LogFileLense
+    public class LogFileLens
     {
         private readonly FixedSizedQueue<string> _buffer;
         private readonly IList<Regex> _filterRegexes = new List<Regex>();
         private readonly IDictionary<string, int> _filterResults = new Dictionary<string, int>();
-        private readonly int _lenseSize;
+        private readonly int _lensSize;
 
-        public LogFileLense()
+        public LogFileLens()
         {
-            if (!int.TryParse(ConfigurationManager.AppSettings["LenseSize"], out _lenseSize))
+            if (!int.TryParse(ConfigurationManager.AppSettings["LensSize"], out _lensSize))
             {
-                _lenseSize = 0;
-                Console.Error.WriteLine($"Failed to parse App.config 'LenseSize'. Using default value: {_lenseSize}");
+                _lensSize = 0;
+                Console.Error.WriteLine($"Failed to parse App.config 'LensSize'. Using default value: {_lensSize}");
             }
 
             string rawFilterRegexes = ConfigurationManager.AppSettings["FilterRegexes"];
@@ -51,7 +51,7 @@ namespace LogFileLense
                 _filterResults.Add(filterRegex.ToString(), 0);
             }
 
-            _buffer = new FixedSizedQueue<string>(_lenseSize);
+            _buffer = new FixedSizedQueue<string>(_lensSize);
         }
 
         public void HandleFile(string path)
@@ -68,17 +68,17 @@ namespace LogFileLense
                 {
                     lineNr++;
 
-                    LenseMatch lenseMatch = IsMatch(line);
-                    if (lenseMatch != null)
+                    LensMatch lensMatch = IsMatch(line);
+                    if (lensMatch != null)
                     {
-                        if (_buffer.Count >= _lenseSize)
+                        if (_buffer.Count >= _lensSize)
                         {
                             PrintLine();
                         }
 
                         PrintAndClearBuffer(lineNr);
-                        PrintLine(line, lineNr, lenseMatch);
-                        fixedPrintCnt = _lenseSize;
+                        PrintLine(line, lineNr, lensMatch);
+                        fixedPrintCnt = _lensSize;
                     }
                     else
                     {
@@ -103,9 +103,9 @@ namespace LogFileLense
             Console.ReadKey();
         }
 
-        private void PrintLine(string line = "", int? lineNr = null, LenseMatch lenseMatch = null)
+        private void PrintLine(string line = "", int? lineNr = null, LensMatch lensMatch = null)
         {
-            if (lenseMatch != null)
+            if (lensMatch != null)
             {
                 Console.BackgroundColor = ConsoleColor.Gray;
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -122,15 +122,15 @@ namespace LogFileLense
                 Console.Out.Write($"{lineNr.Value,4}: ");
             }
 
-            if (lenseMatch != null)
+            if (lensMatch != null)
             {
-                Console.Out.Write(line.Substring(0, lenseMatch.Position));
+                Console.Out.Write(line.Substring(0, lensMatch.Position));
 
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.Out.Write(line.Substring(lenseMatch.Position, lenseMatch.Length));
+                Console.Out.Write(line.Substring(lensMatch.Position, lensMatch.Length));
                 Console.ResetColor();
 
-                Console.Out.WriteLine(line.Substring(lenseMatch.Position + lenseMatch.Length));
+                Console.Out.WriteLine(line.Substring(lensMatch.Position + lensMatch.Length));
             }
             else
             {
@@ -148,7 +148,7 @@ namespace LogFileLense
             }
         }
 
-        private LenseMatch IsMatch(string line)
+        private LensMatch IsMatch(string line)
         {
             foreach (Regex filterRegex in _filterRegexes)
             {
@@ -156,7 +156,7 @@ namespace LogFileLense
                 if (m.Success)
                 {
                     _filterResults[filterRegex.ToString()] += 1;
-                    return new LenseMatch(m.Index, m.Length);
+                    return new LensMatch(m.Index, m.Length);
                 }
             }
 
@@ -167,7 +167,7 @@ namespace LogFileLense
         {
             PrintLine();
             PrintLine();
-            PrintLine($"LenseMatch counts from {lineNr} checked lines:");
+            PrintLine($"LensMatch counts from {lineNr} checked lines:");
             foreach (KeyValuePair<string, int> filterResult in _filterResults)
             {
                 PrintLine($"  {filterResult.Key}: {filterResult.Value}");
@@ -175,9 +175,9 @@ namespace LogFileLense
         }
     }
 
-    internal class LenseMatch
+    internal class LensMatch
     {
-        public LenseMatch(int position, int length)
+        public LensMatch(int position, int length)
         {
             Position = position;
             Length = length;
